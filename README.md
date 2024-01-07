@@ -102,7 +102,7 @@ Feel free to contact me at the above github link.
 
 ## Show your Support
 ___
-Give a :keycap_ten: if you liked this project.
+Give a :heart: if you liked this project.
 
 ## :memo: License
 ___
